@@ -1,0 +1,13 @@
+# Udemy: C# Curso Completo: Do Básico ao Avançado!
+- [ ] Seção 01: Introdução
+- [ ] Seção 02: Configuração do ambiente
+- [ ] Seção 03: Fundamentos
+- [ ] Seção 04: Estruturas de controle
+- [ ] Seção 05: Classes e métodos
+- [ ] Seção 06: Coleções
+- [ ] Seção 07: Orientação a objetos
+- [ ] Seção 08: Métodos e funções
+- [ ] Seção 09: Exceções
+- [ ] Seção 10: Explorando API
+- [ ] Seção 11: Tópicos avançados
+- [ ] Seção 12: Conclusão
